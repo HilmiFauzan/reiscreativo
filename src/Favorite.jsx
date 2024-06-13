@@ -21,7 +21,7 @@ function Favorite() {
                         <div className='flex flex-row items-center'>
                             <img className='w-[60%] rounded-sm' src="https://i.pinimg.com/originals/75/2b/97/752b97460744cb1da35d1a6b058f0b5c.jpg" alt="" />
                             <div className='mx-4'>
-                                <span className='text-md'>Plaza Malibu Marzo</span>
+                                <span className='text-md'>Plaza Malibu Marzo 1</span>
                                 <br />
                                 <button className='my-2 drop-shadow-lg shadow-slate-900 hover:outline-black hover:text-black border-1 outline outline-2 rounded-sm outline-slate-600 text-slate-600 outline-offset-2'>
                                     Read More
@@ -31,7 +31,7 @@ function Favorite() {
                         <div className='flex flex-row items-center'>
                             <img className='w-[60%] rounded-sm' src="https://th.bing.com/th/id/OIP.8QAzzAnYkc19nicA73P2GgHaD4?pid=ImgDet&w=178&h=93&c=7&dpr=1,4" alt="" />
                             <div className='mx-4'>
-                                <span className='text-md'>Plaza Malibu Marzo</span>
+                                <span className='text-md'>Plaza Malibu Marzo 2</span>
                                 <br />
                                 <button className='my-2 drop-shadow-lg shadow-slate-900 hover:outline-black hover:text-black border-1 outline outline-2 rounded-sm outline-slate-500 text-slate-600 outline-offset-2'>
                                     Read More
