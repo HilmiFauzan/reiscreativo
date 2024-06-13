@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/reiscreativo/static/css/main.e374cbfe.css",
-    "main.js": "/reiscreativo/static/js/main.c179da63.js",
+    "main.css": "/reiscreativo/static/css/main.7726188a.css",
+    "main.js": "/reiscreativo/static/js/main.41eae728.js",
     "static/js/453.c64e5468.chunk.js": "/reiscreativo/static/js/453.c64e5468.chunk.js",
     "static/media/revicons.eot": "/reiscreativo/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/reiscreativo/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/reiscreativo/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/reiscreativo/index.html",
-    "main.e374cbfe.css.map": "/reiscreativo/static/css/main.e374cbfe.css.map",
-    "main.c179da63.js.map": "/reiscreativo/static/js/main.c179da63.js.map",
+    "main.7726188a.css.map": "/reiscreativo/static/css/main.7726188a.css.map",
+    "main.41eae728.js.map": "/reiscreativo/static/js/main.41eae728.js.map",
     "453.c64e5468.chunk.js.map": "/reiscreativo/static/js/453.c64e5468.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e374cbfe.css",
-    "static/js/main.c179da63.js"
+    "static/css/main.7726188a.css",
+    "static/js/main.41eae728.js"
   ]
 }
