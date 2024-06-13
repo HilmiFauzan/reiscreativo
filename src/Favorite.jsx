@@ -2,12 +2,12 @@ import React from 'react'
 
 function Favorite() {
     return (
-        <div id='news' className='lg:px-16 my-36 px-8'>
+        <div className='lg:px-16 my-36 px-8'>
             <div className='w-full my-8 sm:my-[100px] md:my-44 lg:my-34'>
-                <div className=''>
+                <div>
                     <h2 className='uppercase lg:text-5xl md:text-4xl text-3xl font-bold'>Latest <span className='text-cyan-800'>News</span></h2>
                 </div>
-                <div className='grid lg:grid-flow-col gap-8 mt-5'>
+                <div id='news' className='grid lg:grid-flow-col gap-8 mt-5'>
                     <div className='w-full flex flex-col items-center justify-between'>
                         <div className=''>
                             <img className='hover:rounded-md' src="https://th.bing.com/th/id/OIP.b1n93Axh-dD1Wh-1RnA_4gHaEK?pid=ImgDet&w=1280&h=720&rs=1" alt="" />

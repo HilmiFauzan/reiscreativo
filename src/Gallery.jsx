@@ -42,13 +42,13 @@ function Gallery() {
                         <div className='max-md:hidden'>
                             <Carousel responsive={responsive} focusOnSelect={true} infinite={true} className="owl-carousel owl-theme mt-8 lg:w-[900px]">
                                 {/* <div className='flex flex-row mt-8 lg:w-[900px] hover:z-20 static lg:absolute'> */}
-                                <div className='item p-2'>
+                                <div className='item p-1'>
                                     <img className='' src="https://th.bing.com/th/id/OIP.TpC_8TTqfhzYaTEazT0YyAHaD4?pid=ImgDet&w=178&h=100&c=7&dpr=1,4" alt="" />
                                 </div>
-                                <div className='item p-2'>
+                                <div className='item p-1'>
                                     <img className='' src="https://th.bing.com/th/id/OIP.hC5kiYFKy8peTJBMCOs2YwHaD4?pid=ImgDet&w=178&h=100&c=7&dpr=1,4" alt="" />
                                 </div>
-                                <div className='item p-2'>
+                                <div className='item p-1'>
                                     <img className='' src="https://th.bing.com/th/id/OIP.LpnXO0WbcVCeb-zV0j-BKwHaD4?pid=ImgDet&w=178&h=100&c=7&dpr=1,4" alt="" />
                                 </div>
                                 {/* </div> */}

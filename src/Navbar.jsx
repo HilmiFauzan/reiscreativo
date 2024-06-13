@@ -12,7 +12,7 @@ function Navbar() {
 
     return (
         <div className='w-screen h-16 z-20 fixed drop-shadow-lg bg-gradient-to-r from-gray-600 via-gray-700 to-gray-800'>
-            <div className='flex flex-row items-center w-full h-full justify-between text-white px-14'>
+            <div className='flex flex-row items-center w-full h-full justify-between text-white px-4 lg:px-14'>
                 <div className="flex items-center">
                     <h1 className="text-3xl font-bold mr-4 sm:text-4xl">ReisCreativo</h1>
                 </div>
@@ -61,27 +61,27 @@ function Navbar() {
                 <SlideUp>
                     <li className="border-b-2 border-gray-300 w-full">
                         <Link onClick={handleClose} to="home" smooth={true} duration={500}>
-                            Halaman
+                            Home
                         </Link>
                     </li>
                     <li className="border-b-2 border-gray-300 w-full">
                         <Link onClick={handleClose} to="about" smooth={true} offset={-200} duration={500}>
-                            Tentang
+                            About
                         </Link>
                     </li>
                     <li className="border-b-2 border-gray-300 w-full">
-                        <Link onClick={handleClose} to="support" smooth={true} offset={-50} duration={500}>
-                            Dukungan
+                        <Link onClick={handleClose} to="gallery" smooth={true} offset={-50} duration={500}>
+                            Gallery
                         </Link>
                     </li>
                     <li className="border-b-2 border-gray-300 w-full">
-                        <Link onClick={handleClose} to="platforms" smooth={true} offset={-200} duration={500}>
-                            Platform
+                        <Link onClick={handleClose} to="news" smooth={true} offset={-200} duration={500}>
+                            News
                         </Link>
                     </li>
                     <li className="w-full">
-                        <Link onClick={handleClose} to="pricing" smooth={true} offset={-50} duration={500}>
-                            Harga
+                        <Link onClick={handleClose} to="clients" smooth={true} offset={-50} duration={500}>
+                            Clients
                         </Link>
                     </li>
                 </SlideUp>
